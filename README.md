@@ -1,4 +1,4 @@
-# mackerel-plugin-pgsql
+# mackerel-plugin-jsonrpc
 mackerel plugin for count JSON-RPC response
 
 # How to use
